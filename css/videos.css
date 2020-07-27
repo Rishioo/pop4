@@ -1,0 +1,67 @@
+body{
+    background-color: #1b1919;
+}
+header{
+    width: 100%;
+    background-color: #fd6500;
+    padding: 15px 0;
+    border-bottom: solid black;
+}
+nav li{
+    display: inline;
+}
+.loja {
+    text-align: right;
+}
+nav li a {
+    color: #000000;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 15px;
+    text-decoration: none;
+}
+nav li a:hover{
+    color: #f5f5f5;
+    text-decoration: none;
+}
+.video1{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.bgs{
+    color: #fd6500;
+    font-size: 18pt;
+    text-decoration: none;
+    font-weight: bold;
+}
+.imgcaixa{
+margin-bottom: 10px;
+}
+.descVideo{
+    color: #fd6500;
+    font-size: 14pt;
+}
+.videosDire{
+    text-decoration: none;
+}
+.videosDire:hover{
+    text-decoration: none;
+    color: whitesmoke;
+}
+h5{
+    color: whitesmoke;
+}
+h6{
+    color: #fd6500;
+    font-size: 14pt;
+    text-decoration: none;
+}
+h6:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.dVideos{
+    font-size: 14pt;
+    color: whitesmoke;
+}

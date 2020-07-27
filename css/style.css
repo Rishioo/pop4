@@ -1,0 +1,62 @@
+    body{
+        background-color: #1b1919;
+    }
+    header{
+        width: 100%;
+        background-color: #fd6500;
+        padding: 15px 0;
+        border-bottom: solid black;
+    }
+    nav li{
+        display: inline;
+    }
+    .loja {
+        text-align: right;
+    }
+    nav li a {
+        color: #000000;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 16px;
+        padding: 15px;
+        text-decoration: none;
+    }
+    nav li a:hover{
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+    .construcao{
+        margin: 0 auto;
+        text-align: center;
+        color: whitesmoke;
+        background-color: #1b1919;
+    }
+    .imgPropaganda{
+        margin-left: 20px;
+    }
+    .carrossel{
+        margin-top: 20px;
+    }
+    .video{
+        margin-top: 20px;
+    }
+    .bgs{
+        color: #fd6500;
+        font-size: 18pt;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .bgs:hover{
+        color:white;
+        text-decoration: none;
+    }
+    section div a h2{
+        text-decoration: none;
+    }
+    .imgThe{
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+ 
